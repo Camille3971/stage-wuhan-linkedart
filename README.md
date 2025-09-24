@@ -14,4 +14,4 @@ Ces scripts visent à :
 ## 📂 Structure du dépôt
 - /1_Recuperation_notices → scripts pour récupérer les notices et données brutes
 - /2_Transformations_notices → scripts pour transformer et convertir les données vers le modèle Linked Art
-- /3_Optimisation_scripts → scripts de transformations optimisés en un seul script
+- /3_Optimisation_notices → scripts de transformations optimisés en un seul script
